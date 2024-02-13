@@ -1,0 +1,11 @@
+{
+"name": "Cricket Chrome Extension",
+"version":"1.0.0",
+"description":"Stay connected with live updates on your favorite cricket matches directly from your browser. Get instant access to match names, status, and more with just a click.",
+"manifest_version":3,
+"author":"Animesh Naithani",
+"action":{
+    "default_popup":"index.html",
+    "default_title":"My chrome extension"
+}
+}
